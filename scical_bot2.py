@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-API_TOKEN = "6851644356:AAGyr6GilrkK7OyhAXxmcWuV_E4Iih-0cag"
+API_TOKEN = "*****************************" #use your personal API_TOKEN with your personal mobile number that you've got from telegram website
 
 # Create a Pyrogram Client
 app = Client("my_calculator_bot", api_id=12345, api_hash="your_api_hash", bot_token=API_TOKEN)
